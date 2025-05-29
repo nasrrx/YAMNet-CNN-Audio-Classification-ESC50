@@ -1,0 +1,515 @@
+{
+  "0": {
+    "best": "CNN",
+    "diff": 5.0,
+    "accuracies": {
+      "LSTM": 90.5,
+      "MLP": 92.0,
+      "CNN": 97.0
+    }
+  },
+  "1": {
+    "best": "CNN",
+    "diff": 37.5,
+    "accuracies": {
+      "LSTM": 37.5,
+      "MLP": 37.5,
+      "CNN": 75.0
+    }
+  },
+  "2": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 87.5,
+      "CNN": 100.0
+    }
+  },
+  "3": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "4": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "5": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 92.55,
+      "MLP": 92.55,
+      "CNN": 92.55
+    }
+  },
+  "6": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 87.5,
+      "CNN": 100.0
+    }
+  },
+  "7": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "8": {
+    "best": "CNN",
+    "diff": 3.5,
+    "accuracies": {
+      "LSTM": 86.0,
+      "MLP": 89.0,
+      "CNN": 92.5
+    }
+  },
+  "9": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 75.0,
+      "MLP": 75.0,
+      "CNN": 87.5
+    }
+  },
+  "10": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "11": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 87.5
+    }
+  },
+  "12": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 87.5
+    }
+  },
+  "13": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 87.5,
+      "CNN": 100.0
+    }
+  },
+  "14": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 87.5,
+      "CNN": 100.0
+    }
+  },
+  "15": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "16": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 75.0,
+      "MLP": 62.5,
+      "CNN": 87.5
+    }
+  },
+  "17": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 75.0,
+      "MLP": 75.0,
+      "CNN": 75.0
+    }
+  },
+  "18": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 87.5
+    }
+  },
+  "19": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "20": {
+    "best": "CNN",
+    "diff": 2.88,
+    "accuracies": {
+      "LSTM": 86.06,
+      "MLP": 85.1,
+      "CNN": 88.94
+    }
+  },
+  "21": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 62.5,
+      "MLP": 75.0,
+      "CNN": 87.5
+    }
+  },
+  "22": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "23": {
+    "best": "CNN",
+    "diff": 5.5,
+    "accuracies": {
+      "LSTM": 87.0,
+      "MLP": 91.0,
+      "CNN": 96.5
+    }
+  },
+  "24": {
+    "best": "MLP",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 100.0,
+      "CNN": 87.5
+    }
+  },
+  "25": {
+    "best": "CNN",
+    "diff": 37.5,
+    "accuracies": {
+      "LSTM": 62.5,
+      "MLP": 62.5,
+      "CNN": 100.0
+    }
+  },
+  "26": {
+    "best": "CNN",
+    "diff": 2.5,
+    "accuracies": {
+      "LSTM": 88.0,
+      "MLP": 85.5,
+      "CNN": 90.5
+    }
+  },
+  "27": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 75.0,
+      "MLP": 87.5,
+      "CNN": 87.5
+    }
+  },
+  "28": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "29": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "30": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 87.5
+    }
+  },
+  "31": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 97.33,
+      "MLP": 98.67,
+      "CNN": 98.67
+    }
+  },
+  "32": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 87.5
+    }
+  },
+  "33": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 50.0,
+      "MLP": 75.0,
+      "CNN": 87.5
+    }
+  },
+  "34": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 100.0
+    }
+  },
+  "35": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 100.0
+    }
+  },
+  "36": {
+    "best": "CNN",
+    "diff": 2.5,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 89.0,
+      "CNN": 91.5
+    }
+  },
+  "37": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "38": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "39": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 75.0,
+      "MLP": 75.0,
+      "CNN": 87.5
+    }
+  },
+  "40": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 87.5
+    }
+  },
+  "41": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 87.5,
+      "CNN": 100.0
+    }
+  },
+  "42": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 87.5
+    }
+  },
+  "43": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "44": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 100.0
+    }
+  },
+  "45": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 75.0,
+      "MLP": 87.5,
+      "CNN": 100.0
+    }
+  },
+  "46": {
+    "best": "CNN",
+    "diff": 1.03,
+    "accuracies": {
+      "LSTM": 94.85,
+      "MLP": 94.85,
+      "CNN": 95.88
+    }
+  },
+  "47": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "48": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "49": {
+    "best": "CNN",
+    "diff": 3.5,
+    "accuracies": {
+      "LSTM": 88.5,
+      "MLP": 86.5,
+      "CNN": 92.0
+    }
+  },
+  "50": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "51": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "52": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 100.0,
+      "MLP": 100.0,
+      "CNN": 100.0
+    }
+  },
+  "53": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 100.0
+    }
+  },
+  "54": {
+    "best": "CNN",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 50.0,
+      "MLP": 50.0,
+      "CNN": 50.0
+    }
+  },
+  "55": {
+    "best": "LSTM",
+    "diff": 0.0,
+    "accuracies": {
+      "LSTM": 87.5,
+      "MLP": 87.5,
+      "CNN": 75.0
+    }
+  },
+  "56": {
+    "best": "CNN",
+    "diff": 12.5,
+    "accuracies": {
+      "LSTM": 62.5,
+      "MLP": 50.0,
+      "CNN": 75.0
+    }
+  }
+}
