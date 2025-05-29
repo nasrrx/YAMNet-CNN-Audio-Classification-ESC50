@@ -20,6 +20,10 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 # Ideally, 50S+
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+
 class YAMNet1DCNN_Improved(nn.Module):
     def __init__(self, num_classes=57):
         super().__init__()
@@ -35,7 +39,7 @@ class YAMNet1DCNN_Improved(nn.Module):
         self.bn3 = nn.BatchNorm1d(128)
 
         self.global_pool = nn.AdaptiveAvgPool1d(1)
-        self.dropout = nn.Dropout(0.75)  # Slightly higher for better regularization
+        self.dropout = nn.Dropout(0.65)  # Slightly higher for better regularization
         self.fc = nn.Linear(128, num_classes)
 
         self._init_weights()
@@ -59,6 +63,7 @@ class YAMNet1DCNN_Improved(nn.Module):
         x = self.dropout(x)
         return self.fc(x)
 
+
 pygame.init()
 script_dir = os.path.dirname(os.path.abspath(__file__))
 recorded_path = os.path.join(script_dir, "recorded.wav")
@@ -70,7 +75,7 @@ label_dict = df[['class_id', 'category']].drop_duplicates().set_index('class_id'
 yamnet_model = hub.load('https://tfhub.dev/google/yamnet/1')
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = YAMNet1DCNN_Improved().to(device)
-model_path = r"C:\Users\nasrr\Desktop\CNN_Projects\AudioClassifier\Best_Model.pt"
+model_path = r"C:\Users\nasrr\Desktop\CNN_Projects\AudioClassifier\Model_91_50_Epoch77.pt"
 model.load_state_dict(torch.load(model_path, map_location=device))
 model.eval()
 
