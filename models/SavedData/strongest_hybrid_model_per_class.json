@@ -1,0 +1,287 @@
+{
+  "0": {
+    "best": "CNN",
+    "accuracy": 97.0,
+    "source": "deep"
+  },
+  "1": {
+    "best": "CNN",
+    "accuracy": 75.0,
+    "source": "deep"
+  },
+  "2": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "3": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "4": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "5": {
+    "best": "CNN",
+    "accuracy": 92.55,
+    "source": "deep"
+  },
+  "6": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "7": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "8": {
+    "best": "CNN",
+    "accuracy": 92.5,
+    "source": "deep"
+  },
+  "9": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "10": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "11": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "12": {
+    "best": "LSTM",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "13": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "14": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "15": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "16": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "17": {
+    "best": "LogisticRegression",
+    "accuracy": 100.0,
+    "source": "classical"
+  },
+  "18": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "19": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "20": {
+    "best": "CNN",
+    "accuracy": 88.94,
+    "source": "deep"
+  },
+  "21": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "22": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "23": {
+    "best": "CNN",
+    "accuracy": 96.5,
+    "source": "deep"
+  },
+  "24": {
+    "best": "LSTM",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "25": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "26": {
+    "best": "CNN",
+    "accuracy": 90.5,
+    "source": "deep"
+  },
+  "27": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "28": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "29": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "30": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "31": {
+    "best": "CNN",
+    "accuracy": 98.67,
+    "source": "deep"
+  },
+  "32": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "33": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "34": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "35": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "36": {
+    "best": "LSTM",
+    "accuracy": 92.0,
+    "source": "deep"
+  },
+  "37": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "38": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "39": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "40": {
+    "best": "CNN",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "41": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "42": {
+    "best": "XGBoost",
+    "accuracy": 100.0,
+    "source": "classical"
+  },
+  "43": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "44": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "45": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "46": {
+    "best": "CNN",
+    "accuracy": 95.88,
+    "source": "deep"
+  },
+  "47": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "48": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "49": {
+    "best": "CNN",
+    "accuracy": 92.0,
+    "source": "deep"
+  },
+  "50": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "51": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "52": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "53": {
+    "best": "CNN",
+    "accuracy": 100.0,
+    "source": "deep"
+  },
+  "54": {
+    "best": "LogisticRegression",
+    "accuracy": 62.5,
+    "source": "classical"
+  },
+  "55": {
+    "best": "LSTM",
+    "accuracy": 87.5,
+    "source": "deep"
+  },
+  "56": {
+    "best": "SVM",
+    "accuracy": 87.5,
+    "source": "classical"
+  }
+}
